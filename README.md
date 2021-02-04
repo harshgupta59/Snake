@@ -1,5 +1,6 @@
 # Snake
 DESCRIPTION-
+
 The “snake game” is a game made in C++ language. This is a game which is quite
 easy to play. The game is a classic representation of the snake game which appears
 as an inbuilt game feature in most of the leading mobile handsets like Nokia.
@@ -28,3 +29,9 @@ key ‘s’ to move down.
 
 If the user wishes to quit the game anytime, you can press the ‘X’ key on the
 keyboard. This would directly exit the game.
+
+SOFTWARE REQUIREMENTS:
+
+ Operating system :- WINDOWS
+ Application software :- DEV C++ IDE
+ Language :- C++
