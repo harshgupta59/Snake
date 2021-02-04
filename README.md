@@ -19,9 +19,12 @@ there is a continuation in the movement.
 2)HARD (bounded) - Here, during the process of travelling, if the snake hits the
 boundary wall, the snake dies, and this is counted as a loss of life and the game ends.
 This is a tougher mode as compared to the unbounded mode.
-Use following keys to play snake gamekey ‘a’ to move left.
+Use following keys to play snake gamekey 
+
+‘a’ to move left.
 key ‘w’ to move up.
 key ‘d’ to move right.
 key ‘s’ to move down.
+
 If the user wishes to quit the game anytime, you can press the ‘X’ key on the
 keyboard. This would directly exit the game.
